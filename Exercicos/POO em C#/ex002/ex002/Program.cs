@@ -27,8 +27,6 @@ namespace ex002
 
             double areaX = x.Area();
 
-            p = (y.A + y.B + y.C) / 2;
-
             double areaY = y.Area();
 
             Console.WriteLine("Área de X = {0}", areaX.ToString("F4", CultureInfo.InvariantCulture));
