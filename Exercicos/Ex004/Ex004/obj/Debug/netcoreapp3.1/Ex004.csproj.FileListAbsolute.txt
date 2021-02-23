@@ -1,0 +1,13 @@
+C:\Programação\NewGitHub\C#\Exercicos\Ex004\Ex004\bin\Debug\netcoreapp3.1\Ex004.exe
+C:\Programação\NewGitHub\C#\Exercicos\Ex004\Ex004\bin\Debug\netcoreapp3.1\Ex004.deps.json
+C:\Programação\NewGitHub\C#\Exercicos\Ex004\Ex004\bin\Debug\netcoreapp3.1\Ex004.runtimeconfig.json
+C:\Programação\NewGitHub\C#\Exercicos\Ex004\Ex004\bin\Debug\netcoreapp3.1\Ex004.runtimeconfig.dev.json
+C:\Programação\NewGitHub\C#\Exercicos\Ex004\Ex004\bin\Debug\netcoreapp3.1\Ex004.dll
+C:\Programação\NewGitHub\C#\Exercicos\Ex004\Ex004\bin\Debug\netcoreapp3.1\Ex004.pdb
+C:\Programação\NewGitHub\C#\Exercicos\Ex004\Ex004\obj\Debug\netcoreapp3.1\Ex004.csprojAssemblyReference.cache
+C:\Programação\NewGitHub\C#\Exercicos\Ex004\Ex004\obj\Debug\netcoreapp3.1\Ex004.AssemblyInfoInputs.cache
+C:\Programação\NewGitHub\C#\Exercicos\Ex004\Ex004\obj\Debug\netcoreapp3.1\Ex004.AssemblyInfo.cs
+C:\Programação\NewGitHub\C#\Exercicos\Ex004\Ex004\obj\Debug\netcoreapp3.1\Ex004.csproj.CoreCompileInputs.cache
+C:\Programação\NewGitHub\C#\Exercicos\Ex004\Ex004\obj\Debug\netcoreapp3.1\Ex004.dll
+C:\Programação\NewGitHub\C#\Exercicos\Ex004\Ex004\obj\Debug\netcoreapp3.1\Ex004.pdb
+C:\Programação\NewGitHub\C#\Exercicos\Ex004\Ex004\obj\Debug\netcoreapp3.1\Ex004.genruntimeconfig.cache
