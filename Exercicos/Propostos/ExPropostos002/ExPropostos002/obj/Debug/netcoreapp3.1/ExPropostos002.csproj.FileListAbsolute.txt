@@ -1,0 +1,12 @@
+C:\Programação\NewGitHub\C#\Exercicos\Propostos\ExPropostos002\ExPropostos002\bin\Debug\netcoreapp3.1\ExPropostos002.exe
+C:\Programação\NewGitHub\C#\Exercicos\Propostos\ExPropostos002\ExPropostos002\bin\Debug\netcoreapp3.1\ExPropostos002.deps.json
+C:\Programação\NewGitHub\C#\Exercicos\Propostos\ExPropostos002\ExPropostos002\bin\Debug\netcoreapp3.1\ExPropostos002.runtimeconfig.json
+C:\Programação\NewGitHub\C#\Exercicos\Propostos\ExPropostos002\ExPropostos002\bin\Debug\netcoreapp3.1\ExPropostos002.runtimeconfig.dev.json
+C:\Programação\NewGitHub\C#\Exercicos\Propostos\ExPropostos002\ExPropostos002\bin\Debug\netcoreapp3.1\ExPropostos002.dll
+C:\Programação\NewGitHub\C#\Exercicos\Propostos\ExPropostos002\ExPropostos002\bin\Debug\netcoreapp3.1\ExPropostos002.pdb
+C:\Programação\NewGitHub\C#\Exercicos\Propostos\ExPropostos002\ExPropostos002\obj\Debug\netcoreapp3.1\ExPropostos002.AssemblyInfoInputs.cache
+C:\Programação\NewGitHub\C#\Exercicos\Propostos\ExPropostos002\ExPropostos002\obj\Debug\netcoreapp3.1\ExPropostos002.AssemblyInfo.cs
+C:\Programação\NewGitHub\C#\Exercicos\Propostos\ExPropostos002\ExPropostos002\obj\Debug\netcoreapp3.1\ExPropostos002.csproj.CoreCompileInputs.cache
+C:\Programação\NewGitHub\C#\Exercicos\Propostos\ExPropostos002\ExPropostos002\obj\Debug\netcoreapp3.1\ExPropostos002.dll
+C:\Programação\NewGitHub\C#\Exercicos\Propostos\ExPropostos002\ExPropostos002\obj\Debug\netcoreapp3.1\ExPropostos002.pdb
+C:\Programação\NewGitHub\C#\Exercicos\Propostos\ExPropostos002\ExPropostos002\obj\Debug\netcoreapp3.1\ExPropostos002.genruntimeconfig.cache
