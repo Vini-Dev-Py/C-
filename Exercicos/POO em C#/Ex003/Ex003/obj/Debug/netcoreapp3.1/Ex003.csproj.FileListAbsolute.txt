@@ -1,0 +1,13 @@
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Ex003\Ex003\bin\Debug\netcoreapp3.1\Ex003.exe
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Ex003\Ex003\bin\Debug\netcoreapp3.1\Ex003.deps.json
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Ex003\Ex003\bin\Debug\netcoreapp3.1\Ex003.runtimeconfig.json
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Ex003\Ex003\bin\Debug\netcoreapp3.1\Ex003.runtimeconfig.dev.json
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Ex003\Ex003\bin\Debug\netcoreapp3.1\Ex003.dll
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Ex003\Ex003\bin\Debug\netcoreapp3.1\Ex003.pdb
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Ex003\Ex003\obj\Debug\netcoreapp3.1\Ex003.csprojAssemblyReference.cache
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Ex003\Ex003\obj\Debug\netcoreapp3.1\Ex003.AssemblyInfoInputs.cache
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Ex003\Ex003\obj\Debug\netcoreapp3.1\Ex003.AssemblyInfo.cs
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Ex003\Ex003\obj\Debug\netcoreapp3.1\Ex003.csproj.CoreCompileInputs.cache
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Ex003\Ex003\obj\Debug\netcoreapp3.1\Ex003.dll
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Ex003\Ex003\obj\Debug\netcoreapp3.1\Ex003.pdb
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Ex003\Ex003\obj\Debug\netcoreapp3.1\Ex003.genruntimeconfig.cache

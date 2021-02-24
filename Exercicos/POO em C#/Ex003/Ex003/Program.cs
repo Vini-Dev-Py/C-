@@ -16,6 +16,20 @@ namespace Ex003 {
             p.Quantidade = int.Parse(Console.ReadLine());
 
             Console.WriteLine("Dados do produto: " + p);
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser adicionados: ");
+            int qte = int.Parse(Console.ReadLine());
+            p.AdicionarProdutos(qte);
+
+            Console.WriteLine("Dados atualizados do produto: " + p);
+
+            Console.WriteLine();
+            Console.Write("Digite o número de produtos a ser removidos: ");
+            int rem = int.Parse(Console.ReadLine());
+            p.RemoverProdutos(rem);
+
+            Console.WriteLine("Dados atualizados do produto: " + p);
         }
     }
 }

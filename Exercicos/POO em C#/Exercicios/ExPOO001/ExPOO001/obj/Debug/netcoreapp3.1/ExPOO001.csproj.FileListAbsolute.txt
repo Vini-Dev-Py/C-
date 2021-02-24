@@ -1,0 +1,13 @@
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Exercicios\ExPOO001\ExPOO001\bin\Debug\netcoreapp3.1\ExPOO001.exe
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Exercicios\ExPOO001\ExPOO001\bin\Debug\netcoreapp3.1\ExPOO001.deps.json
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Exercicios\ExPOO001\ExPOO001\bin\Debug\netcoreapp3.1\ExPOO001.runtimeconfig.json
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Exercicios\ExPOO001\ExPOO001\bin\Debug\netcoreapp3.1\ExPOO001.runtimeconfig.dev.json
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Exercicios\ExPOO001\ExPOO001\bin\Debug\netcoreapp3.1\ExPOO001.dll
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Exercicios\ExPOO001\ExPOO001\bin\Debug\netcoreapp3.1\ExPOO001.pdb
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Exercicios\ExPOO001\ExPOO001\obj\Debug\netcoreapp3.1\ExPOO001.csprojAssemblyReference.cache
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Exercicios\ExPOO001\ExPOO001\obj\Debug\netcoreapp3.1\ExPOO001.AssemblyInfoInputs.cache
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Exercicios\ExPOO001\ExPOO001\obj\Debug\netcoreapp3.1\ExPOO001.AssemblyInfo.cs
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Exercicios\ExPOO001\ExPOO001\obj\Debug\netcoreapp3.1\ExPOO001.csproj.CoreCompileInputs.cache
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Exercicios\ExPOO001\ExPOO001\obj\Debug\netcoreapp3.1\ExPOO001.dll
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Exercicios\ExPOO001\ExPOO001\obj\Debug\netcoreapp3.1\ExPOO001.pdb
+C:\Programação\NewGitHub\C#\Exercicos\POO em C#\Exercicios\ExPOO001\ExPOO001\obj\Debug\netcoreapp3.1\ExPOO001.genruntimeconfig.cache
